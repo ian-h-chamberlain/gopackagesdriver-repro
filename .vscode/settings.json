@@ -1,0 +1,7 @@
+{
+  "go.useLanguageServer": true,
+  "go.toolsEnvVars": {
+    "GOPACKAGESDRIVER": "${workspaceFolder}/gopackagesdriver.sh",
+    "GOPACKAGESDRIVER_BAZEL": "bazelisk",
+  },
+}
